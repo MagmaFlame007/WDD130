@@ -19,13 +19,31 @@
         padding: 20px;
     }
     h1, h2, h3, h4, h5, h6 {
-        font-family: var(--Open-Sans);
-        color: var(--#90e0ef);
+        font-family: var(sans-serif);
+        color: var(#90e0ef);
     }
     header {
         padding: 20px;
-        background-color: var(--#0077b6);
+        background-color: var(#0077b6);
     }
     p {
         padding: 25px;
+    }
+    nav {
+        background-color: var(--nav-#03045e);
+        font-size: 1.2rem;
+        display: flex;
+    }
+    nav a {
+        display: block;
+        color: var(#90e0ef);
+        text-decoration: none;
+        padding: 1rem;
+    }
+    nav a:link, nav a:visited {
+        color: var(#90e0ef)
+    }
+    nav a:hover {
+        color: var(#00b4d8);
+        background-color: var(#0077b6);
     }
