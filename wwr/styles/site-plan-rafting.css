@@ -30,7 +30,7 @@
         padding: 25px;
     }
     nav {
-        background-color: var(--nav-#03045e);
+        background-color: var(#03045e);
         font-size: 1.2rem;
         display: flex;
     }
