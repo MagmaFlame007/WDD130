@@ -1,0 +1,18 @@
+@import url('https://fonts.google.com/specimen/Open+Sans?preview.text=Hello&preview.text_type=custom&category=Sans+Serif');
+:root {
+    --primary-color:#90e0ef
+    --secondary-color:#00b4d8
+    --accent1-color:#0077b6
+    --accent2-color:#03045e
+
+    --heading-font: 'Open Sans', serif;
+    --paragraph-font: 'Open Sans', serif;
+
+    --nav-background-color: #03045e;
+    --nav-link-color: #00b4d8
+    --nav-hover-link-color: #0077b6
+    --nav-hover-background-color: #90e0ef
+}
+    body {
+        f 
+    }
